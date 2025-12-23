@@ -9,7 +9,7 @@ const WeatherApp = () => {
   const [data, setData] = useState({});
   const [location, setLocation] = useState("");
   const [loading, setLoading] = useState(false);
-  const api_key = "1647bc162fd11972aeb69d16cc4f573b";
+  const api_key = import.meta.env.VITE_OPENWEATHER_API_KEY;
 
   useEffect(() => {
     const fetchDefaultWeather = async () => {
