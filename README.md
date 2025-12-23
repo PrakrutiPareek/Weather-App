@@ -1,16 +1,44 @@
-# React + Vite
+# 🌦️ Weather App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based weather application that provides real-time weather information with a clean, responsive UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- Built with React + Vite
+- Search weather by city name
+- Displays temperature, weather condition, humidity, and wind speed
+- Uses real-time weather API
+- Responsive design for desktop & mobile
+- Clean and user-friendly interface
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🖼️ Screenshot
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Weather App](public/weather_app_screenshot.png)
+
+---
+
+## 🌐 Live Demo
+
+🔗 [Play Weather App](https://weather-app-pp.netlify.app)
+
+---
+
+## 🛠️ Technologies Used
+
+- React
+- Tailwind CSS
+- OpenWeatherMap API
+- Vite
+
+---
+
+## 📬 Contact
+
+👩‍💻 Created by **Prakruti Pareek**
+
+- GitHub: [PrakrutiPareek](https://github.com/PrakrutiPareek)
+- Portfolio: [prakruti-pareek-portfolio.netlify.app](https://prakruti-pareek-portfolio.netlify.app)

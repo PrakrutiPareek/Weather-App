@@ -102,6 +102,7 @@
   color: #484569;
   background-image: linear-gradient(to right, #2f2e57, #605d80);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
   text-shadow: 0.5rem 0.5rem 1rem rgba(0, 0, 0, 0.2);
 }
