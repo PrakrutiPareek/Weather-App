@@ -17,7 +17,7 @@ A React-based weather application that provides real-time weather information wi
 
 ## 🖼️ Screenshot
 
-![Weather App](public/weather_app_screenshot.png)
+![Weather App](public/Screenshot%202026-01-03%20231425.png)
 
 ---
 
