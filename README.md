@@ -23,7 +23,7 @@ A React-based weather application that provides real-time weather information wi
 
 ## 🌐 Live Demo
 
-🔗 [Play Weather App](https://weather-app-pp.netlify.app)
+🔗 [Play Weather App](https://weather-app-pp1.netlify.app)
 
 ---
 
